@@ -23,7 +23,7 @@ import phpmysql from "./tech/phpmysql.jpg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/lisara.png";
-import starbucks from "./company/mic.png";
+import starbucks from "./company/kechtrip.jpg";
 import tesla from "./company/bigm.png";
 
 import carrent from "./atoutcommerce.png";

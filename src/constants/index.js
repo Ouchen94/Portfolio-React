@@ -115,24 +115,25 @@ const technologies = [
 
 const experiences = [
   {
-    title: "JAVA/JEE DEVELOPER",
-    company_name: "MIC Consulting group",
+    title: "FRONT END DEVELOPER",
+    company_name: "KechTrip",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "September 2015 - August 2016",
+    date: "January 2016 - April 2018",
     points: [
-      "Design and production of an urban planning web application for the management of private and public assets; the solution also makes it possible to manage the fixed assets of these owners",
+      "Participate in needs analysis and application design under WordPress",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Take charge of corrective and evolutionary maintenance of web projects",
+      "Set up integration tests and acceptance tests for developed applications",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
     title: "FRONT END DEVELOPER",
-    company_name: "BIG M",
+    company_name: "Icreative",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "September 2016 - March 2020",
+    date: "March 2018 - April 2020",
     points: [
       "Developing and maintaining web applications using Php and other related technologies.",
       "Take charge of the corrective maintenance of web projects.",
